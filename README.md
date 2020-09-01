@@ -3,7 +3,7 @@ Argue like Cobalt Strike
 
 xpn大佬在how to argue like cobalt strike这篇文章中，仔细说明了cobalt strike里argument spoofing的原理
 
-并且给了详细的示例代码。
+并且给了详细的示例代码。xpn大佬牛逼！
 
 我在对示例代码进行修改后发出，易用性更强，供参考。
 
